@@ -1,0 +1,16 @@
+EMILY WATSON
+Product Manager | emily.watson@example.com | London, UK
+
+SUMMARY
+Product manager with 7 years of experience in B2B SaaS.
+
+SKILLS
+Product strategy, Roadmapping, Agile/Scrum, JIRA, User research, SQL basics
+
+EXPERIENCE
+Senior Product Manager, Teamly (2019 - Present)
+- Launched analytics module that grew ARR by 25%
+- Ran 30+ customer discovery interviews per quarter
+
+EDUCATION
+MBA, London Business School, 2017

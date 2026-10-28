@@ -1,0 +1,16 @@
+RAHUL VERMA
+DevOps Engineer | rahul.verma@example.com | Lucknow, India
+
+SUMMARY
+DevOps engineer with 5 years automating cloud infrastructure.
+
+SKILLS
+AWS, Terraform, Kubernetes, Docker, GitHub Actions, Bash, Python scripting, Prometheus
+
+EXPERIENCE
+DevOps Engineer, CloudNine Systems (2020 - Present)
+- Managed 40+ Kubernetes clusters on AWS EKS
+- Wrote Python and Bash automation that reduced deployment time by 60%
+
+EDUCATION
+B.Tech Electronics, AKTU, 2019
